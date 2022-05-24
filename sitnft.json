@@ -1,0 +1,11 @@
+{
+    "name": "sitpug1",
+    "description": "description",
+    "image": "https://raw.githubusercontent.com/wxccui/sitnft-img/main/pug.png",
+    "attributes": [
+        {
+            "trait_type": "trait",
+            "value": 100
+        }
+    ]
+}
