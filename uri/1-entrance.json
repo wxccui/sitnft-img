@@ -1,0 +1,11 @@
+{
+  "name": "SIT Entrance",
+  "description": "1-入学证",
+  "image": "https://ipfs.io/ipfs/QmNQ45comkn1CkkZ4Dd9cU9UEMfsqZSoD6gpHNehCnJe3i?filename=1-%E5%85%A5%E5%AD%A6%E8%AF%81.png",
+  "attributes": [
+    {
+      "trait_type": "入学证",
+      "value": 100
+    }
+  ]
+}
