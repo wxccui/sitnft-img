@@ -1,0 +1,15 @@
+{
+    "name": "3-勤工俭学纪念勋章",
+    "description": "勤工俭学纪念勋章",
+    "image": "https://ipfs.io/ipfs/QmcvPeFJdSTCfhwFLNFDp88ebMArBFsNNptWFta5A5raHU?filename=2-%E5%8B%A4%E5%B7%A5%E4%BF%AD%E5%AD%A6.png",
+    "attributes": [
+      {
+       "trait_type": "作者",
+       "value": "SIT"
+      },
+      {
+       "trait_type": "区块链网络",
+       "value": "万纳链"
+      }
+    ]
+  }
