@@ -4,6 +4,10 @@
     "image": "https://ipfs.io/ipfs/QmcvPeFJdSTCfhwFLNFDp88ebMArBFsNNptWFta5A5raHU?filename=2-%E5%8B%A4%E5%B7%A5%E4%BF%AD%E5%AD%A6.png",
     "attributes": [
       {
+      "trait_type": "作者",
+      "value": "SIT"
+      },
+      {
         "trait_type": "勤工俭学证",
         "value": 100
       }
