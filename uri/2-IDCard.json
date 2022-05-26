@@ -1,0 +1,19 @@
+{
+    "name": "2-纪念款学生卡",
+    "description": "纪念款学生卡",
+    "image": "https://ipfs.io/ipfs/QmbvGTW5Us6RUZbBwvgKp1wCsnijLBHxnSUphiZEXzGJsS?filename=4-%E5%AD%A6%E7%94%9F%E5%8D%A1.png",
+    "attributes": [
+      {
+       "trait_type": "作者",
+       "value": "SIT"
+      },
+      {
+       "trait_type": "区块链网络",
+       "value": "万纳链"
+      },
+      {
+        "trait_type": "勤工俭学证",
+        "value": 100
+      }
+    ]
+  }
