@@ -1,0 +1,15 @@
+{
+    "name": "4-奖学金证书",
+    "description": "奖学金证书",
+    "image": "https://ipfs.io/ipfs/QmZvjA4uNhYFs225VLufiwgPBeiSkend58qqsFRJAVV1Zg?filename=3-%E5%A5%96%E5%AD%A6%E9%87%91.png",",
+    "attributes": [
+      {
+       "trait_type": "作者",
+       "value": "SIT"
+      },
+      {
+       "trait_type": "区块链网络",
+       "value": "万纳链"
+      }
+    ]
+  }
